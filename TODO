@@ -1,0 +1,20 @@
+
+Todo:
+  ☐ Functionize the graphs
+
+
+
+Archive:
+  ✔ You can archive finished todos here
+  ✔ Congratulations, you are now a Todo+ master!
+
+Hotkeys:
+  ☐ Press Cmd/Ctrl+Enter to add a new todo
+  ✔ Press Alt+D to toggle done
+  ✘ Press Alt+C to toggle cancelled
+  ☐ Add tags using the @ symbol. Special, customizable tags: @critical @high @low @today
+  ☐ *asterisks* for bold
+  ☐ _underscores_ for italic
+  ☐ ~tildes~ for strikethrough
+  ☐ `backticks` for code
+
